@@ -1,3 +1,3 @@
 # Портфолио
 
-### Ссылка на [github-pages](https://dedmaier.github.io/portfolio-hvv/)
+### Ссылка на [github-pages](https://dedmaier.github.io/Portfolio-new/)
